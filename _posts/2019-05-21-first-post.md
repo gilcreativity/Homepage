@@ -3,7 +3,7 @@ title: "Data Scientist"
 date: 2019-05-21 08:26:28 -0400
 categories: Data Scientist
 ---
-this is a program of knowledge sharing!. 
+this is a project of knowledge sharing! 
 
 ​```R
 sessioInfo()
